@@ -1,6 +1,9 @@
 # Projeto_SD
 Projeto desenvolvido para a disciplina de Sistemas distribuídos.
 
+![video](https://github.com/Alesandr0/College-mobile-site/assets/105898363/c8cdf312-9881-42ef-8ae9-22fc1e0efc26)
+![cineon](https://github.com/Alesandr0/College-mobile-site/assets/105898363/75e3841e-332f-43c7-b6a3-44233e9eedf6)
+
  ## Equipe
 <table style="border-collapse: collapse; border: 5px solid white;">
 <tr>
