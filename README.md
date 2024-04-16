@@ -1,12 +1,10 @@
 # Projeto_SD
 Projeto desenvolvido para a disciplina de Sistemas distribuídos.
 
-
-
- ## Equipe
- ![n1](https://github.com/Alesandr0/Projeto_SD/assets/105898363/976ee5d9-a3dd-4fac-9a28-bb0fb0a8e436)                                          
+![n1](https://github.com/Alesandr0/Projeto_SD/assets/105898363/976ee5d9-a3dd-4fac-9a28-bb0fb0a8e436)                                          
 ![nn](https://github.com/Alesandr0/Projeto_SD/assets/105898363/aa8b8701-9845-429f-a806-aa323bd3f58d)
 
+## Equipe
 <table style="border-collapse: collapse; border: 5px solid white;">
 <tr>
 
