@@ -1,12 +1,15 @@
 # Projeto_SD
 Projeto desenvolvido para a disciplina de Sistemas distribuídos.
 
-![video](https://github.com/Alesandr0/College-mobile-site/assets/105898363/c8cdf312-9881-42ef-8ae9-22fc1e0efc26)
-![cineon](https://github.com/Alesandr0/College-mobile-site/assets/105898363/75e3841e-332f-43c7-b6a3-44233e9eedf6)
+
 
  ## Equipe
+ ![n1](https://github.com/Alesandr0/Projeto_SD/assets/105898363/976ee5d9-a3dd-4fac-9a28-bb0fb0a8e436)
+![nn](https://github.com/Alesandr0/Projeto_SD/assets/105898363/aa8b8701-9845-429f-a806-aa323bd3f58d)
+
 <table style="border-collapse: collapse; border: 5px solid white;">
 <tr>
+
 <td align="center" style="border: 5px solid white; padding: 10px;">
     <img src="https://avatars.githubusercontent.com/u/105898363?v=4" alt="Alesandro da Silva Santos" width="110px">
     <br>
